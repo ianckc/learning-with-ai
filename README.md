@@ -1,1 +1,2 @@
-# learning-with-ai
+# Learning with AI
+

@@ -8,5 +8,10 @@ I'm trying to learn Apache Kafka can you create me a simple application using Ru
 
 This did create a Rust app with a consumer and a producer but didn't create a Kafka instance, e.g. via `docker-compose`
 
-## Second prompt
+I thought I'd run the `cargo run --bin producer` command anyway to see the result, which was:
 
+```
+error: no bin target named composer
+```
+
+I thought at this point I'd try Cursor.
